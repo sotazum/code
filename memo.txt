@@ -12,3 +12,10 @@ abc147-c
 ギリギリtle.PyPyで通った.
 abc145-c
 itertools.permutations(x): 順列全探索
+20220220
+abc240-c
+親の顔より見たdp問題らしい. dpか？と思ったけど自信が持てなかった. 瞬時にときたい.
+abc240-d
+スタックぽいことはすぐわかる. pythonのキュー・スタックライブラリはfrom collecitons import deque
+abc243-c
+exit(0)で全ての処理を終了できる. 分岐でYes, No出す問題で使える.
